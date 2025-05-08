@@ -1,4 +1,4 @@
-# ✅ Java Fundamentals & Arrays: 2-Day Practice Checklist
+# ✅ Java Solid 2-Day Practice Checklist
 
 ## 📅 Day 1 – Logic & Core Syntax
 
