@@ -8,7 +8,7 @@
 - [x] **Task 2**: Number Guessing Game  
   _Concepts_: Random, loops, conditionals
 
-- [ ] **Task 3**: Grade Evaluator (A–F based on score)  
+- [x] **Task 3**: Grade Evaluator (A–F based on score)  
   _Concepts_: if-else, input, logic handling
 
 - [ ] **Task 4**: Loop Practice (evens, multiplication table)  
