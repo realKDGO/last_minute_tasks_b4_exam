@@ -14,8 +14,8 @@
 - [ ] **Task 4**: Loop Practice (evens, multiplication table)  
   _Concepts_: `for`, `while`, math
 
-- [ ] **Task 5**: Method Practice – Prime Checker & Temp Converter  
-  _Concepts_: Method creation, return values
+- [ ] **Task 5**: Number Stats Analyzer  
+  _Concepts_: `for` or `while` loops, Conditionals (`if-else`), Basic arithmetic.
 
 ---
 
