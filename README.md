@@ -11,7 +11,7 @@
 - [x] **Task 3**: Grade Evaluator (A–F based on score)  
   _Concepts_: if-else, input, logic handling
 
-- [ ] **Task 4**: Loop Practice (evens, multiplication table)  
+- [x] **Task 4**: Loop Practice (evens, multiplication table)  
   _Concepts_: `for`, `while`, math
 
 - [ ] **Task 5**: Number Stats Analyzer  
