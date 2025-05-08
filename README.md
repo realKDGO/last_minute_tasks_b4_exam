@@ -5,7 +5,7 @@
 - [x] **Task 1**: Basic Calculator using `switch`  
   _Concepts_: Input, switch-case, arithmetic
 
-- [ ] **Task 2**: Number Guessing Game  
+- [x] **Task 2**: Number Guessing Game  
   _Concepts_: Random, loops, conditionals
 
 - [ ] **Task 3**: Grade Evaluator (A–F based on score)  
