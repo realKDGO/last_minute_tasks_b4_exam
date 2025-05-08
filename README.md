@@ -14,7 +14,7 @@
 - [x] **Task 4**: Loop Practice (evens, multiplication table)  
   _Concepts_: `for`, `while`, math
 
-- [ ] **Task 5**: Number Stats Analyzer  
+- [x] **Task 5**: Number Stats Analyzer  
   _Concepts_: `for` or `while` loops, Conditionals (`if-else`), Basic arithmetic.
 
 ---
