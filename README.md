@@ -40,7 +40,7 @@
 
 ## 🔥 Bonus: Mini Project – Student Grade Tracker
 
-- [x] **B1**: 2D Array to Store Names & Scores  
+- [ ] **B1**: 2D Array to Store Names & Scores  
   _Concepts_: 2D arrays, nested loops, average calculation
 
 - [ ] **B2**: Display Formatted Report (Name + Avg + Remarks)  
