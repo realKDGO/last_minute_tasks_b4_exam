@@ -40,30 +40,29 @@
 
 ## 🔐 Bonus Task: ATM Simulation
 
-📝 **Description:**
+📝 **Description:**  
 Create a simple ATM simulation program that allows a user to interact with basic banking features. The program must begin with **PIN verification** and allow the user up to **three attempts** to enter the correct PIN. After logging in, the user can choose from a menu of banking options. The system should also allow **PIN resetting** and must print a **receipt** showing the final balance upon exiting.
 
-✅ **Objectives:**
-
+✅ **Objectives:**  
 **1.** Prompt the user for a 4-digit PIN (default: `1234`), and allow up to 3 attempts.
 
 **2.** If the correct PIN is entered, display an ATM menu with these options:  
-  _• Check Balance
-  _• Deposit
-  _• Withdraw
-  _• Reset PIN
-  _• Exit and Print Receipt
+  • Check Balance  
+  • Deposit  
+  • Withdraw  
+  • Reset PIN  
+  • Exit and Print Receipt  
 
 **3.** Perform the appropriate action for each menu selection:  
-  _• **Check Balance:** Display current account balance.
-  _• **Deposit:** Ask for an amount and add it to the balance.
-  _• **Withdraw:** Ask for an amount and subtract if funds are sufficient.
-  _• **Reset PIN:** Verify current PIN, then allow setting a new one.
-  _• **Exit:** Show a final receipt including the balance and exit the program.
+  • **Check Balance:** Display current account balance.  
+  • **Deposit:** Ask for an amount and add it to the balance.  
+  • **Withdraw:** Ask for an amount and subtract if funds are sufficient.  
+  • **Reset PIN:** Verify current PIN, then allow setting a new one.  
+  • **Exit:** Show a final receipt including the balance and exit the program.  
 
 **4.** Use only **basic variables,** **loops,** **and** **conditionals**—no methods, arrays, or advanced Java features.
 
-📌 **Sample Receipt on Exit:**
---- ATM Receipt ---
-Final Balance: `₱[amount]`
-Thank you for banking with us!
+📌 **Sample Receipt on Exit:**  
+--- ATM Receipt ---  
+Final Balance: `₱[amount]`  
+Thank you for banking with us!  
