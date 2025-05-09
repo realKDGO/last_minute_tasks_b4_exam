@@ -38,7 +38,7 @@
 
 ---
 
-## 🔐 Bonus Task: Enhanced ATM Simulation with PIN and Receipt
+## 🔐 Bonus Task: ATM Simulation
 
 📝 **Description:**
 Create a simple ATM simulation program that allows a user to interact with basic banking features. The program must begin with **PIN verification** and allow the user up to **three attempts** to enter the correct PIN. After logging in, the user can choose from a menu of banking options. The system should also allow **PIN resetting** and must print a **receipt** showing the final balance upon exiting.
