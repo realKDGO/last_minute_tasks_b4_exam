@@ -25,7 +25,7 @@
   _Concepts_: Array, for-each loop, `Arrays.sort()`
 
 - [x] **Task 7**: Average Calculator for 5 Scores  
-  _Concepts_: Arrays, sum logic, methods
+  _Concepts_: Arrays, sum logic
 
 - [x] **Task 8**: Frequency Counter of a Number  
   _Concepts_: Loop, comparison, counting
@@ -38,10 +38,32 @@
 
 ---
 
-## 🔥 Bonus: Mini Project – Student Grade Tracker
+## 🔐 Bonus Task: Enhanced ATM Simulation with PIN and Receipt
 
-- [ ] **B1**: 2D Array to Store Names & Scores  
-  _Concepts_: 2D arrays, nested loops, average calculation
+📝 **Description:**
+Create a simple ATM simulation program that allows a user to interact with basic banking features. The program must begin with **PIN verification** and allow the user up to **three attempts** to enter the correct PIN. After logging in, the user can choose from a menu of banking options. The system should also allow **PIN resetting** and must print a **receipt** showing the final balance upon exiting.
 
-- [ ] **B2**: Display Formatted Report (Name + Avg + Remarks)  
-  _Concepts_: Output formatting, control structures
+✅ **Objectives:**
+
+**1.** Prompt the user for a 4-digit PIN (default: `1234`), and allow up to 3 attempts.
+
+**2.** If the correct PIN is entered, display an ATM menu with these options:
+	• Check Balance
+	• Deposit
+	• Withdraw
+	• Reset PIN
+	• Exit and Print Receipt
+
+**3.** Perform the appropriate action for each menu selection:
+	• **Check Balance:** Display current account balance.
+	• **Deposit:** Ask for an amount and add it to the balance.
+	• **Withdraw:** Ask for an amount and subtract if funds are sufficient.
+	• **Reset PIN:** Verify current PIN, then allow setting a new one.
+	• **Exit:** Show a final receipt including the balance and exit the program.
+
+**4.** Use only **basic variables,** **loops,** **and** **conditionals**—no methods, arrays, or advanced Java features.
+
+📌 **Sample Receipt on Exit:**
+--- ATM Receipt ---
+Final Balance: `₱[amount]`
+Thank you for banking with us!
