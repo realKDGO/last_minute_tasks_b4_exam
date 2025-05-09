@@ -21,7 +21,7 @@
 
 ## 📅 Day 2 – Arrays & Application
 
-- [ ] **Task 6**: Name Storage + Alphabetical Sort  
+- [x] **Task 6**: Name Storage + Alphabetical Sort  
   _Concepts_: Array, for-each loop, `Arrays.sort()`
 
 - [ ] **Task 7**: Average Calculator for 5 Scores  
