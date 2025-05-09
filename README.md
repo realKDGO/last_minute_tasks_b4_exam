@@ -27,7 +27,7 @@
 - [x] **Task 7**: Average Calculator for 5 Scores  
   _Concepts_: Arrays, sum logic, methods
 
-- [ ] **Task 8**: Frequency Counter of a Number  
+- [x] **Task 8**: Frequency Counter of a Number  
   _Concepts_: Loop, comparison, counting
 
 - [ ] **Task 9**: Find Min and Max in an Array  
