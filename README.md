@@ -30,7 +30,7 @@
 - [x] **Task 8**: Frequency Counter of a Number  
   _Concepts_: Loop, comparison, counting
 
-- [ ] **Task 9**: Find Min and Max in an Array  
+- [x] **Task 9**: Find Min and Max in an Array  
   _Concepts_: Loops, comparisons
 
 - [ ] **Task 10**: Array Reverser  
