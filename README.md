@@ -24,7 +24,7 @@
 - [x] **Task 6**: Name Storage + Alphabetical Sort  
   _Concepts_: Array, for-each loop, `Arrays.sort()`
 
-- [ ] **Task 7**: Average Calculator for 5 Scores  
+- [x] **Task 7**: Average Calculator for 5 Scores  
   _Concepts_: Arrays, sum logic, methods
 
 - [ ] **Task 8**: Frequency Counter of a Number  
