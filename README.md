@@ -33,7 +33,7 @@
 - [x] **Task 9**: Find Min and Max in an Array  
   _Concepts_: Loops, comparisons
 
-- [ ] **Task 10**: Array Reverser  
+- [x] **Task 10**: Array Reverser  
   _Concepts_: Array, indexing, loops
 
 ---
