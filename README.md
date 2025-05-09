@@ -47,14 +47,14 @@ Create a simple ATM simulation program that allows a user to interact with basic
 
 **1.** Prompt the user for a 4-digit PIN (default: `1234`), and allow up to 3 attempts.
 
-**2.** If the correct PIN is entered, display an ATM menu with these options:
+**2.** If the correct PIN is entered, display an ATM menu with these options:  
   _• Check Balance
   _• Deposit
   _• Withdraw
   _• Reset PIN
   _• Exit and Print Receipt
 
-**3.** Perform the appropriate action for each menu selection:
+**3.** Perform the appropriate action for each menu selection:  
   _• **Check Balance:** Display current account balance.
   _• **Deposit:** Ask for an amount and add it to the balance.
   _• **Withdraw:** Ask for an amount and subtract if funds are sufficient.
